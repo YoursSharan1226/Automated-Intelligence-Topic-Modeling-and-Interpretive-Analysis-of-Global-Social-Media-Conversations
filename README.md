@@ -1,4 +1,4 @@
-# Global Social Media Topic Modeling and Stance Analysis
+# Automated Intelligence Topic Modeling and Interpretive Analysis of Global Social Media Conversations
 ## Project Overview
 This project presents a scalable, unsupervised Natural Language Processing (NLP) framework for discovering and interpreting large-scale global social media conversations.
 Using transformer-based embeddings, density-based clustering, and a custom stance-analysis module, the system identifies coherent discussion topics and uncovers internal viewpoint structures within each topic.
